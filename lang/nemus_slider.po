@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: nemus-slider.php:1
+msgid "Add New Slider"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:1
+msgid "All Sliders"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:145
+#: nemus-slider.php:230
+#: nemus-slider.php:277
+#: nemus-slider.php:357
+msgid "Animation Position"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:208
+#: nemus-slider.php:335
+msgid "Ascending"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:438
+msgid "Auto Height:"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:164
+#: nemus-slider.php:296
+msgid "Automated slides"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:430
+msgid "Autoplay:"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:140
+#: nemus-slider.php:225
+#: nemus-slider.php:272
+#: nemus-slider.php:352
+msgid "Bottom Center"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:139
+#: nemus-slider.php:224
+#: nemus-slider.php:271
+#: nemus-slider.php:351
+msgid "Bottom Left"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:141
+#: nemus-slider.php:226
+#: nemus-slider.php:273
+#: nemus-slider.php:353
+msgid "Bottom Right"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:132
+#: nemus-slider.php:264
+#: nemus-slider.php:344
+msgid "Caption Position"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:186
+#: nemus-slider.php:316
+msgid "Category"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:137
+#: nemus-slider.php:222
+#: nemus-slider.php:269
+#: nemus-slider.php:349
+msgid "Center"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:136
+#: nemus-slider.php:221
+#: nemus-slider.php:268
+#: nemus-slider.php:348
+msgid "Center Left"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:138
+#: nemus-slider.php:223
+#: nemus-slider.php:270
+#: nemus-slider.php:350
+msgid "Center Right"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:450
+msgid "Color:"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:201
+#: nemus-slider.php:328
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:366
+msgid "Create a new slide"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:810
+msgid "Create a slider first"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:367
+msgid "Create automated slides"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:200
+#: nemus-slider.php:327
+#: nemus-slider.php:481
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:434
+msgid "Delay:"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:209
+#: nemus-slider.php:336
+msgid "Descending"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:813
+msgid "Display a Nemus Slider"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:1
+msgid "Edit Slider"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:454
+msgid "Fade"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:187
+#: nemus-slider.php:317
+msgid "From all category"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:442
+msgid "Height:"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:129
+#: nemus-slider.php:261
+msgid "Image Caption"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:151
+#: nemus-slider.php:283
+msgid "Image Link"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:446
+msgid "Inside controls:"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:213
+#: nemus-slider.php:340
+msgid "Limit"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:1
+msgid "Manage sliders"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:199
+#: nemus-slider.php:326
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:813
+msgid "Nemus Slider"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider-preview.php:26
+msgid "Nemus Slider Preview"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:1
+msgid "New Slider"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:1
+msgid "No sliders found"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:1
+msgid "No sliders found in the trash"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:481
+msgid "Number of slides"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:154
+#: nemus-slider.php:286
+msgid "Open in new window"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:206
+#: nemus-slider.php:333
+msgid "Order"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:197
+#: nemus-slider.php:324
+msgid "Order by"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:173
+#: nemus-slider.php:305
+msgid "Post type"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:794
+#: nemus-slider.php:481
+msgid "Preview"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:794
+msgid "Preview Changes"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:202
+#: nemus-slider.php:329
+msgid "Random"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:1
+msgid "Search Sliders"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:481
+msgid "Shortcode"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:465
+msgid "Shortcode:"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:456
+msgid "Slide"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:1
+#: nemus-slider.php:481
+msgid "Slider"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:481
+msgid "Slider ID"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:1
+msgid "Slider Options"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:792
+msgid "Slider:"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:1
+msgid "Sliders"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider-preview.php:42
+msgid "Sorry, but this slider doesn't exists."
+msgstr ""
+
+#. Text in echo
+#: nemus-slider-preview.php:39
+msgid "This is just a preview of your awesome slider. Use the following shortcode to insert it to any page:"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:788
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:134
+#: nemus-slider.php:219
+#: nemus-slider.php:266
+#: nemus-slider.php:346
+msgid "Top Center"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:133
+#: nemus-slider.php:218
+#: nemus-slider.php:265
+#: nemus-slider.php:345
+msgid "Top Left"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:135
+#: nemus-slider.php:220
+#: nemus-slider.php:267
+#: nemus-slider.php:347
+msgid "Top Right"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:114
+#: nemus-slider.php:252
+msgid "Upload Image"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:117
+msgid "Video selected"
+msgstr ""
+
+#. Text in function
+#: nemus-slider.php:1
+msgid "View Slider"
+msgstr ""
+
+#. Text in function
+#: nemus-slider-preview.php:1
+msgid "You don't have the neccessary permission to preview forms."
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:115
+#: nemus-slider.php:253
+msgid "Youtube or Vimeo link"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:167
+#: nemus-slider.php:299
+msgid "delete"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:166
+#: nemus-slider.php:298
+msgid "duplicate"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:119
+#: nemus-slider.php:253
+msgid "or video"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:97
+#: nemus-slider.php:243
+msgid "slide"
+msgstr ""
+
+#. Text in echo
+#: nemus-slider.php:129
+#: nemus-slider.php:261
+msgid "you can use html code"
+msgstr ""
